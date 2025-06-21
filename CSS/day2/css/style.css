@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+.box{
+    border: 30px solid rgba(167, 13, 85, 0.68);   
+    padding: 10px;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box2{
+    border: 50px solid rgb(20, 220, 203);
+    margin: 100px;
+    width: 500px;
+    height: 500px;
+}
+
+*{
+     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+.box3{
+     border: 50px solid rgb(167, 132, 187);
+    margin: 100px;
+    width: 500px;
+    height: 700px;
+}
